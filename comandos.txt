@@ -1,0 +1,2 @@
+npm init -y    (cria um arquivo package.json)
+code           (abre o visual code)
